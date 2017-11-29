@@ -22,7 +22,7 @@ import numpy
 import ftplib
 
 #global vars
-KEY = '2b80ff373c164984b44382da66fa7295'  # Replace with a valid Subscription Key here.
+KEY = ''  # Replace with a valid Subscription Key here.
 CF.Key.set(KEY)
 imagePath = os.getcwd()+'/current/current.jpg'
 cascPath = os.getcwd()+'/haarcascade_frontalface_default.xml'
