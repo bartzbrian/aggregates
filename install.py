@@ -272,5 +272,6 @@ def main():
 			print("Still no user\n")
 			print "Waiting for user\n"
 		time.sleep(18)
-
-main() 
+		
+if __name__ == "__main__": 
+	main()
